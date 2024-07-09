@@ -1,0 +1,30 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilstha86/Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilstha86/Automation/issues"
+  },
+  "homepage": "https://github.com/sunilstha86/Automation#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "babel-loader": "^9.1.3",
+    "cypress": "^13.13.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1",
+    "webpack": "^5.92.1"
+  }
+}
